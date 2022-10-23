@@ -1,2 +1,18 @@
 # Python-Gruppen-Nachrichten-Sender
-Mit diesem Script kann man Whatsapp Nachrichten in Gruppen schicken um gezielte Uhrzeiten
+
+## Was braucht man dafür
+- Python 3.6 oder höher
+
+## Installation auf Windows
+```
+> Setup.bat
+> python Nachrichten_Sender_Group.py
+> Die Gruppenid: //Hier die Gruppenid eingeben
+```
+
+## Installation auf Linux
+```
+$ ./Setup.sh
+$ python Nachrichten_Sender_GUI.py
+$ Die Gruppenid: //Hier die Gruppenid eingeben
+```
