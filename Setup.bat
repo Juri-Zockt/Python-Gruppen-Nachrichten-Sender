@@ -5,4 +5,4 @@ pip install keyboard
 cls
 pip install PySimpleGUI
 cls
-echo("Script Made by Juri-Zockt")
+echo "Script Made by Juri-Zockt"
